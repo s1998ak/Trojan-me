@@ -1,5 +1,5 @@
 # Trojan-me
-https://workername.workers.dev/ADMIN_TOKEN
+https://worker-domain/ADMIN_TOKEN
 
 Variables and Secrets:
 ADMIN_TOKEN
